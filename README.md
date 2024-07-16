@@ -1,4 +1,3 @@
-
 # K-means Clustering with Visualization
 
 This repository provides a simple example of how to perform K-means clustering on a dataset and visualize the results using Python. 
